@@ -1,0 +1,99 @@
+{
+  "scanned": true,
+  "reminders": {
+    "Notes.md": [
+      {
+        "title": "Send in your costs for the last couple weeks",
+        "time": "2024-11-08",
+        "rowNumber": 3
+      },
+      {
+        "title": "Write the terrasses versailles report",
+        "time": "2024-11-07",
+        "rowNumber": 26
+      },
+      {
+        "title": "With Keven update the report for St Félicien to cover the shoulder season and the start of the heating season. Send report say beginning of November and I think have a meeting.",
+        "time": "2024-11-07",
+        "rowNumber": 100
+      },
+      {
+        "title": "Presente les résultats du non-routine adjustement pour ESLE, pi demande aussi par rapport à Concordia",
+        "time": "2024-11-08",
+        "rowNumber": 530
+      }
+    ],
+    "Notes/Projects/LCC/LCC Notes.md": [
+      {
+        "title": "Start estimating/pricing savings from mesures reccommended in annex B of prelim report for LCC. Use this file for inspo: [23-0551 - Calculateur de mesures RCx.xlsx](https://akonovia.sharepoint.com/:x:/s/rcx2/Ebja_XtTIgpLlBgfFnVRCzkBuiWaiNpfUW6Wgfh4j07a3Q?e=tbeobY \"https://akonovia.sharepoint.com/:x:/s/rcx2/ebja_xttigpllbgffnvrczkbuiwainpfuw6wgfh4j07a3q?e=tbeoby\")",
+        "time": "2024-11-07",
+        "rowNumber": 3
+      }
+    ],
+    "Notes/Vadimap/Vadimap Notes.md": [
+      {
+        "title": "Do a factures Bilan for LovePac",
+        "time": "2024-11-07",
+        "rowNumber": 11
+      },
+      {
+        "title": "Do an arrimage for LovePac",
+        "time": "2024-11-07",
+        "rowNumber": 12
+      }
+    ],
+    "Tasks/Chores.md": [
+      {
+        "title": "Just check make sure that CSS Navi is running fine, and ask the client if anything is screwed up",
+        "time": "2024-11-07",
+        "rowNumber": 19
+      },
+      {
+        "title": "Read an article in the articles folder",
+        "time": "2024-11-08",
+        "rowNumber": 32
+      },
+      {
+        "title": "Faire calcul HQ pour la photosynthèse pour le mois courant, dû le 21 du mois courant",
+        "time": "2024-11-20",
+        "rowNumber": 26
+      },
+      {
+        "title": "Reprioritize quick links in file explorer",
+        "time": "2024-11-24",
+        "rowNumber": 11
+      },
+      {
+        "title": "Clean out email inbox",
+        "time": "2024-12-04",
+        "rowNumber": 3
+      }
+    ],
+    "Olymel - St. Damase.md": [
+      {
+        "title": "Actually go through the section with all the drawings Sarah gave and make sure we have what we need due",
+        "time": "2024-11-07",
+        "rowNumber": 1
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": false,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": true,
+    "useCustomEmojiForTasksPlugin": true,
+    "removeTagsForTasksPlugin": true,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

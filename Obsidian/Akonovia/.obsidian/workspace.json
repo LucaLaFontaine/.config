@@ -1,0 +1,329 @@
+{
+  "main": {
+    "id": "c2dbd0382a5b96f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e811ab9a07b0918",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d0a0a3c0e909366",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task Manager.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Task Manager"
+            }
+          },
+          {
+            "id": "11c5a7422157a967",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Task Order.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d175f682401d7b36",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
+          },
+          {
+            "id": "55cf41924893a8ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Commentaires Rapports Annuels GERE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Commentaires Rapports Annuels GERE"
+            }
+          },
+          {
+            "id": "6a6adc3e3a02b627",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Task Order.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "4ee1354efeda7c8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "List of Generally Required Competencies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "List of Generally Required Competencies"
+            }
+          },
+          {
+            "id": "f67832312534eaf2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Misc/Media/Excalidraw/What does Luca do.excalidraw.md"
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d7017fd852cd132",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec91e96832f83def",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e676673c92d27fab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4e7690a2a370849d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "note",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3cb1451406d416f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "12dbd5f5cf465f21",
+    "type": "split",
+    "children": [
+      {
+        "id": "6579723bed334ccd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45d6f2e4a87028b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Notes"
+            }
+          },
+          {
+            "id": "1a2f4748b02d6290",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Notes"
+            }
+          },
+          {
+            "id": "2def2cc74f1eb667",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "59372febd2d6ecc3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Notes"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "d175f682401d7b36",
+  "lastOpenFiles": [
+    "Task Order.md",
+    "Notes.md",
+    "Commentaires Rapports Annuels GERE.md",
+    "Notes/Projects/EMO/St - Félicien.md",
+    "Misc/Media/Excalidraw/What does Luca do.excalidraw.md",
+    "Misc/Media/Excalidraw/sazerac.excalidraw.md",
+    "Misc/Media/Excalidraw/Notepad.excalidraw.md",
+    "Misc/Media/Excalidraw/Drawing 2025-04-30 08.44.09.excalidraw.md",
+    "Misc/Media/Excalidraw/Drawing 2025-04-09 14.01.17.excalidraw.md",
+    "Misc/Media/Excalidraw/Drawing 2025-04-08 16.51.24.excalidraw.md",
+    "Misc/Media/Excalidraw/Drawing 2025-03-24 14.52.09.excalidraw.md",
+    "Misc/Media/Excalidraw/Drawing 2024-12-05 10.20.52.excalidraw.md",
+    "Misc/Media/Excalidraw/Drawing 2024-10-01 16.54.34.excalidraw.md",
+    "Misc/Media/Excalidraw/Drawing 2024-09-19 14.52.17.excalidraw.md",
+    "Misc/Media/Excalidraw/Drawing 2024-08-27 09.48.49.excalidraw.md",
+    "List of Generally Required Competencies.md",
+    "Task Manager.md",
+    "Notes/Projects/Audits/Sazerac/Sazerac Notes.md",
+    "Gabarit Rapport MBCx EMO.md",
+    "Tasks/Chores.md",
+    "obsidian.vimrc",
+    "Valcartier Lot 3 QUestions.md",
+    "Media/Pics/Pasted image 20250515081825.png",
+    "Media/Pics/Pasted image 20250501103405.png",
+    "Notes/Projects/SME/ABI/ABI Aluminum Reg.md",
+    "Commande_de_Lait.excalidraw.md",
+    "ABI FOurs.md",
+    "Media/Pics/Pasted image 20250415080934.png",
+    "Notes/Projects/RCx/Valcartier.md",
+    "Media/Pics/Pasted image 20250410113604.png",
+    "Media/Pics/Pasted image 20250410113539.png",
+    "Media/Pics/Pasted Image 20250401090707_996.png",
+    "Media/Pics/PXL_20250401_125456895.jpg",
+    "Media/Pics/PXL_20250401_125539732.jpg",
+    "Notes/Projects/RCx/LCC/LCC Notes.md",
+    "Media/Pics/PXL_20250324_172502325.jpg",
+    "Media/Pics/Pasted image 20250319093749.png",
+    "Notes/Projects/AA Directory",
+    "Notes/Projects/Audits/Quo Vadis",
+    "Notes/Projects/SME",
+    "Notes/Projects/EMO",
+    "Notes/Projects/RCx",
+    "Notes/Projects/Audits",
+    "~$lcartier.docx",
+    "Valcartier.docx",
+    "Tasks"
+  ]
+}
