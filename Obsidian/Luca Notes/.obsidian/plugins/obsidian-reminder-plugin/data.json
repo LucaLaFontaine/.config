@@ -1,0 +1,241 @@
+{
+  "scanned": true,
+  "reminders": {
+    "Tasks/Chores.md": [
+      {
+        "title": "Sweep kitchen/living room/bathroom",
+        "time": "2024-11-07",
+        "rowNumber": 16
+      },
+      {
+        "title": "Deep clean utensils",
+        "time": "2024-11-07",
+        "rowNumber": 30
+      },
+      {
+        "title": "Clean Duvet",
+        "time": "2024-11-07",
+        "rowNumber": 66
+      },
+      {
+        "title": "Change bedsheets",
+        "time": "2024-11-11",
+        "rowNumber": 50
+      },
+      {
+        "title": "Vacuum/mop kitchen and office",
+        "time": "2024-11-12",
+        "rowNumber": 10
+      },
+      {
+        "title": "Clear both counters",
+        "time": "2024-11-13",
+        "rowNumber": 3
+      },
+      {
+        "title": "Change pillow sheets",
+        "time": "2024-11-14",
+        "rowNumber": 55
+      },
+      {
+        "title": "Organize Notes (~45min)",
+        "time": "2024-11-18",
+        "rowNumber": 100
+      },
+      {
+        "title": "Clean Toilet",
+        "time": "2024-11-21",
+        "rowNumber": 70
+      },
+      {
+        "title": "Clean Bathroom Counter/Mirror",
+        "time": "2024-11-22",
+        "rowNumber": 81
+      },
+      {
+        "title": "clean drawer faces, backsplash, and fridge face",
+        "time": "2024-11-25",
+        "rowNumber": 23
+      },
+      {
+        "title": "oil cutting board",
+        "time": "2024-11-27",
+        "rowNumber": 38
+      },
+      {
+        "title": "Clean shower",
+        "time": "2024-12-06",
+        "rowNumber": 85
+      },
+      {
+        "title": "Wash shoes",
+        "time": "2024-12-09",
+        "rowNumber": 107
+      },
+      {
+        "title": "Change Razor",
+        "time": "2024-12-11",
+        "rowNumber": 77
+      },
+      {
+        "title": "Get a Haircut",
+        "time": "2024-12-14",
+        "rowNumber": 113
+      },
+      {
+        "title": "polish glasstop",
+        "time": "2024-12-15",
+        "rowNumber": 44
+      },
+      {
+        "title": "Fertilize plants due",
+        "time": "2024-12-23",
+        "rowNumber": 121
+      },
+      {
+        "title": "clean range oil filters",
+        "time": "2024-12-28",
+        "rowNumber": 33
+      },
+      {
+        "title": "Clean out hmm.. on Spotify",
+        "time": "2025-01-02",
+        "rowNumber": 97
+      },
+      {
+        "title": "Sharpen knives",
+        "time": "2025-01-08",
+        "rowNumber": 20
+      },
+      {
+        "title": "Wash windows",
+        "time": "2025-02-26",
+        "rowNumber": 118
+      },
+      {
+        "title": "clean fridge",
+        "time": "2025-04-02",
+        "rowNumber": 27
+      },
+      {
+        "title": "Clean Pillows",
+        "time": "2025-06-18",
+        "rowNumber": 62
+      },
+      {
+        "title": "replace all passwords",
+        "time": "2025-09-06",
+        "rowNumber": 94
+      }
+    ],
+    "Notes.md": [
+      {
+        "title": "Bring some plant fertiliser to the office",
+        "time": "2024-11-07",
+        "rowNumber": 7
+      },
+      {
+        "title": "sotre these woodworking notes longterm",
+        "time": "2024-11-07",
+        "rowNumber": 35
+      },
+      {
+        "title": "call mike",
+        "time": "2024-11-07",
+        "rowNumber": 333
+      },
+      {
+        "title": "Call the post office and figure out how to get stuff shipped there consistently",
+        "time": "2024-11-08",
+        "rowNumber": 3
+      },
+      {
+        "title": "Remake this wooden cutting board for Nonna",
+        "time": "2024-11-21",
+        "rowNumber": 26
+      }
+    ],
+    "Zettel/MOCs/Joie de Vivre/Textiles/Fashion/Fashion Notes/Outfits.md": [
+      {
+        "title": "Need a larger sweater vest an also a black sweater vest. I would also kind of like a white one",
+        "time": "2025-06-18",
+        "rowNumber": 24
+      }
+    ],
+    "Tasks/Gifts for People.md": [
+      {
+        "title": "Acquire materials",
+        "time": "2024-11-11",
+        "rowNumber": 4
+      },
+      {
+        "title": "Test 100g",
+        "time": "2024-11-20",
+        "rowNumber": 5
+      },
+      {
+        "title": "Make the 1Kg",
+        "time": "2024-12-10",
+        "rowNumber": 6
+      }
+    ],
+    "Tasks/Coding Tasks.md": [
+      {
+        "title": "add the parsing of HQ and energir reports to otters as functions, further improve them, and add a generic version. Label them as like \"based on an Akonovia formula\" so that I can easily remove them",
+        "time": "2024-11-08",
+        "rowNumber": 5
+      },
+      {
+        "title": "add interpolation for error handling in Johns weather script",
+        "time": "2024-11-08",
+        "rowNumber": 20
+      },
+      {
+        "title": "Fix these problems in the weather excel:",
+        "time": "2024-11-08",
+        "rowNumber": 21
+      },
+      {
+        "title": "add the compareList() func from the ABI agg data",
+        "time": "2024-11-15",
+        "rowNumber": 6
+      },
+      {
+        "title": "Figure out how to cleanly export regression graphs and integrate with Jon's shit due",
+        "time": "2024-11-15",
+        "rowNumber": 16
+      },
+      {
+        "title": "The agg data notebook has something for finding where the strings are in a df. formalize that",
+        "time": "2024-11-15",
+        "rowNumber": 17
+      }
+    ],
+    "Zettel/MOCs/Joie de Vivre/Ceramics/Ceramics Notes.md": [
+      {
+        "title": "get from Sial: frit 3134, talc, mang ox, dolomite, soda feldspar, Yellow Irox, viscometer, sharpening tools?, graded sieves?, oxide pencil, knifing/handbuilding tool that Oriana uses",
+        "time": "2024-11-08",
+        "rowNumber": 7
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": false,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": true,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": true,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

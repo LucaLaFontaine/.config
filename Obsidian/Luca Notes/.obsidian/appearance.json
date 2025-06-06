@@ -1,0 +1,11 @@
+{
+  "accentColor": "#a65e65",
+  "enabledCssSnippets": [
+    "image-zoom",
+    "Margins",
+    "photos",
+    "print",
+    "Tasks Backlinks"
+  ],
+  "cssTheme": "Obsidian Nord"
+}

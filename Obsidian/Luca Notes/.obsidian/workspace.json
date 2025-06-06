@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "f83fa0ab765c60a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4a383dfcc6a84cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da30fea514af959e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task Manager.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Task Manager"
+            }
+          },
+          {
+            "id": "cf6939681f63a373",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78e60cbac53c91cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f29376f6ad4eff28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8204abfa9931e8bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "823937865fe8b501",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "38",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0f3a06e4ff0edd09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.5
+  },
+  "right": {
+    "id": "4c72735f3653b1d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f82123dddb0e9c96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2776a7c842edeb4d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Notes"
+            }
+          },
+          {
+            "id": "35c36eb582d90776",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Notes"
+            }
+          },
+          {
+            "id": "13b8eb5ac770dea7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9cf33d782b0c49d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Notes"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cf6939681f63a373",
+  "lastOpenFiles": [
+    "Misc/Excalidraw/Flower pot.excalidraw.md",
+    "Misc/Excalidraw/otter frames.excalidraw.md",
+    "Misc/Excalidraw/otters_drawings.excalidraw.md",
+    "Misc/Excalidraw/signatures.excalidraw.md",
+    "Misc/Excalidraw/smart casual look.excalidraw.md",
+    "Misc/Excalidraw/Summer Hipster.excalidraw.md",
+    "Misc/Excalidraw/Drawing 2024-06-12 16.11.44.excalidraw.md",
+    "Misc/Excalidraw/Drawing 2024-06-21 13.46.12.excalidraw.md",
+    "Misc/Excalidraw/Drawing 2024-07-08 19.54.56.excalidraw.md",
+    "Misc/Excalidraw/Drawing 2024-08-17 12.55.35.excalidraw.md",
+    "Misc/Excalidraw/Drawing 2025-03-03 17.20.27.excalidraw.md",
+    "Notes.md",
+    "Task Manager.md",
+    "New/June 2025 Work Review.md",
+    "New/Untitled 6.md",
+    "New/Untitled 5.md",
+    "New/Untitled 4.md",
+    "New/Untitled 3.md",
+    "New/Untitled 2.md",
+    "New/Untitled 1.md",
+    "New/Untitled.md",
+    "New/RAKU Eventbrite Description.md",
+    "New/Brooks Brothers.md",
+    "New/Buying a Summer Duvet.md",
+    "Markwhen/Repairing Kiln and SIAL run 25-06-03.mw.mw",
+    "Markwhen/Markwhen 6-3-2025 15.16.01.mw",
+    "Markwhen/Markwhen 6-3-2025 15.02.45.mw",
+    "New/Repairing Kiln and SIAL run 25-06-03.md",
+    "Markwhen",
+    "Tasks/Chores.md",
+    "Misc/Media/Pasted image 20250603101347.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Misc/Media/Pasted image 20250428082729.png",
+    "Misc/Media/Pasted image 20250428082711.png",
+    "Misc/Media/PXL_20250421_184832143.jpg",
+    "Misc/Media/Screenshot_20240415-102115.png",
+    "Misc/Media/Screenshot_20240218-103056.png",
+    "Misc/Media/PXL_20250118_014734862.jpg",
+    "Misc/Media/PXL_20250118_013904724.jpg",
+    "Misc/Media/PXL_20250115_180004463.jpg",
+    "Misc/Media/PXL_20250115_175855241.jpg",
+    "Tasks Backlinks.css",
+    "Misc/Media/Tasks Backlinks.css",
+    "Zettel/MOCs/Joie de Vivre/Ceramics/General Notes",
+    "Zettel/MOCs/Joie de Vivre/Languages/French",
+    "Zettel/MOCs/Joie de Vivre/Languages/Italian",
+    "Zettel/MOCs/Joie de Vivre/Languages"
+  ]
+}

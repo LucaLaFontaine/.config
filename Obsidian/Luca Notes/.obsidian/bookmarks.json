@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1714511680771,
+      "path": "Task Manager.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1713294419104,
+      "path": "Notes.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1714679767259,
+      "path": "Tasks/Current Worries.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1738163742271,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1738163709847,
+          "path": "Tasks/Coding Tasks.md"
+        }
+      ],
+      "title": "Tasks"
+    },
+    {
+      "type": "file",
+      "ctime": 1722866916182,
+      "path": "Zettel/MOCs/Joie de Vivre/Cooking/Recipes.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1740756095940,
+      "path": "Tasks/Grocery.md"
+    }
+  ]
+}
